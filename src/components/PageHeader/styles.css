@@ -65,4 +65,12 @@
     .page-header .header-content strong {
         max-width: 340px;
     }
+
+    .page-header .header-content p {
+        max-width: 30rem;
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+        color: var(--color-title-in-primary);
+        margin-top: 2.4rem;
+    }
 }
